@@ -1,5 +1,5 @@
 import math
-#에라토스테네스의 체
+
 def solution(n):
     cnt = 0
     for i in range(2, n+1):
